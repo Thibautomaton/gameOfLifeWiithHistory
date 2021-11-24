@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="main.qml">F:/Projets/GameOfLife/gameoflife/main.qml</file>
+<file alias="gosperglidergun.cells">F:/Projets/GameOfLife/gameoflife/gosperglidergun.cells</file>
+</qresource>
+</RCC>
